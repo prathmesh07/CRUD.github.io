@@ -4,4 +4,4 @@
 3)Tool--XXAMP server (local host)</br></br>
 4)Repository consist screenshot and a demo video also</br>
 
-! [screenshot] {https://github.com/prathmesh07/CRUD.github.io/blob/master/Screenshot/01.PNG }
+![screenshot](https://raw.githubusercontent.com/prathmesh07/CRUD.github.io/master/Screenshot/01.PNG )
