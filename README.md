@@ -1,4 +1,4 @@
 # CRUD.github.io
-1)Implement CRUD on Student Database.\n
-2)Using HTML5/ CSS3/ PHP/ MySQL
+1)Implement CRUD on Student Database.</br>
+2)Using HTML5/ CSS3/ PHP/ MySQL</br>
 3)Tool--XXAMP server (local host)
